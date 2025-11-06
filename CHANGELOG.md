@@ -39,6 +39,11 @@ All notable changes to this project will be documented in this file.
 - Dependencies: dio ^5.8.0
 - Platform Support: iOS, Android, Web, Desktop
 
+## [0.1.1] - 2025-11-06
+
+### Added
+- Updated documentation
+
 ## [Unreleased]
 
 ### Planned
