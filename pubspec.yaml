@@ -1,6 +1,6 @@
 name: telegram_auth_flutter
 description: A lightweight and fast Telegram OAuth authentication package for Flutter. Features 1-second polling, flexible configuration, and clean API without UI dependencies.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/melniknikolay/telegram_auth_flutter
 repository: https://github.com/melniknikolay/telegram_auth_flutter
 issue_tracker: https://github.com/melniknikolay/telegram_auth_flutter/issues
