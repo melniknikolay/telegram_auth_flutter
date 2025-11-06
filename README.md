@@ -2,6 +2,16 @@
 
 A lightweight and fast Telegram OAuth authentication package for Flutter with 1-second polling interval and clean API.
 
+
+<div align="center">
+<img width="300" alt="Screen_2" src="https://github.com/user-attachments/assets/f73481b4-0420-418b-ab23-b8d7a7464701" alt="Login Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" alt="Screen_1" src="https://github.com/user-attachments/assets/62b753ff-e917-4f56-9b02-0113d3491fb9" alt="Success Screen"/>
+</div>
+<p align="center">
+  <em>Login screen and successful authentication</em>
+</p>
+
 ## Features
 
 - **⚡ Fast Polling**: 1-second interval for more responsive UX
